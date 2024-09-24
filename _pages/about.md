@@ -26,9 +26,9 @@ I work on reversible Langevin dynamics to obtain sampling methods that are more 
 
 I have two BSc from the Universite Libre de Bruxelles (ULB), in physics engineering in 2017 and business management in 2015. I also have received an MSc in Environment and Devlopment in 2018 from the London School of Economics(LSE) and worked as a researcher in DRC (Democratic Republic of the Congo) in development economics and in London for the [What Works for Children Social Care](https://whatworks-csc.org.uk/), managing and evaluating RCTs (Randomised Controlled Trials). I finally enrolled in an MSc in Applied Computational Mathematics at the UoE which led me to my current PhD. 
 
-Life is a journey, might as well enjoyed it and learn as much as you can and have a positive impact along the way!  :sparkles:
+Life is a journey, might as well enjoyed it, learn as much as you can and have a positive impact along the way!  :sparkles:
 
-Representation matters, please get in touch if you would like to get a neurospicy and feminist take on doing a PhD in math! :seedling: :rainbow:
+Representation matters, please get in touch if you would like to get a neurospicy and feminist take on doing a PhD in applied math! :seedling: :rainbow:
 
 <!-- Semi-supervised learning methods on graph can be used for images classification in safety-critical application, such as medical imaging. In this setting, the images are represented by a set of nodes in a high-dimensional space, pairwiseconnected by edges, with weights depending on their similarity. Unlabelled images are then injected to the graph, and we aim at correctly classifying the images using graphical learning through the design of an operator such as the Laplace or Poisson operator. -->
 
