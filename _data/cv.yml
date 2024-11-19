@@ -94,3 +94,164 @@
 #   type: list
 #   contents:
 #     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+# personal_info:
+#   name: "Alix Leroy"
+#   address: "Edinburgh, UK"
+#   phone: "+352 621 261 002"
+#   email: "a.leroy@sms.ed.ac.uk"
+#   website: "https://alixleroy.github.io/"
+#   summary: "PhD student in applied computational mathematics interested in healthcare-related applications."
+
+# education:
+#   - degree: "PhD in Applied Computational Mathematics"
+#     institution: "University of Edinburgh"
+#     location: "Scotland, UK"
+#     start_date: "2021"
+#     end_date: "November 2025 (expected)"
+#     supervisor: "Dr. Jonas Latz, Prof. Des Higham, Prof. Ben Leimkuhler"
+#     thesis_title: "Adaptive stepsize algorithms for Langevin dynamics and application to graph-based methods for image classification."
+
+#   - degree: "Master of Science in Applied Computational Mathematics"
+#     institution: "University of Edinburgh"
+#     location: "Scotland, UK"
+#     start_date: "2020"
+#     end_date: "2021"
+#     honors: "Graduated with distinction."
+
+#   - degree: "Master of Science in Environment and Development"
+#     institution: "London School of Economics (LSE)"
+#     location: "London, UK"
+#     start_date: "2017"
+#     end_date: "2018"
+#     honors: "Graduated with High Merit."
+
+#   - degree: "Bachelor in Engineering and Physics"
+#     institution: "Université Libre de Bruxelles"
+#     location: "Belgium"
+#     start_date: "2014"
+#     end_date: "2017"
+#     honors: "Graduated with Cum Laude."
+
+#   - degree: "Bachelor in Business Engineering"
+#     institution: "Université Libre de Bruxelles"
+#     location: "Belgium"
+#     start_date: "2012"
+#     end_date: "2015"
+#     honors: "Graduated with Cum Laude."
+
+# experience:
+#   - title: "Quantitative Researcher"
+#     organization: "What Works for Children Social Care"
+#     start_date: "May 2019"
+#     end_date: "August 2020"
+#     responsibilities: 
+#       - "Design, implement, and analyze impact evaluations to improve children's social care."
+#       - "Lead re-analysis of 63 educational RCTs, manage data cleaning, covariate inclusion, missing data strategies, and model selection."
+#       - "Report findings to Department for Education representatives."
+
+#   - title: "Research Coordinator"
+#     organization: "Abdul Latif Jameel Poverty Action Lab"
+#     supervisor: "Prof. John Weigel"
+#     start_date: "August 2018"
+#     end_date: "April 2019"
+#     responsibilities:
+#       - "Coordinate RCT on socio-economic impact of property taxation in rural DR Congo."
+#       - "Manage data collection, cleaning, pre-analysis with STATA, and team of 20 enumerators."
+#       - "Lead survey project on tax decision-making, randomizing motivational messages, and analyzing beliefs."
+
+#   - title: "Research Assistant"
+#     organization: "Biomedical Research Department, Université Libre de Bruxelles"
+#     start_date: "August 2016"
+#     responsibilities:
+#       - "Test mechanical systems for stomach surgery, including tensile properties testing of soft plastics."
+#       - "Design and print molds for samples using SolidWorks 3D design software."
+
+# conferences:
+#   - title: "Poster Presentation"
+#     event: "New Directions for Stochastic Differential Equations and Machine Learning"
+#     location: "International Center for Mathematical Sciences, Scotland"
+#     date: "June 2024"
+
+#   - title: "Invited Talk"
+#     event: "SIAM Conference on Uncertainty Quantification"
+#     location: "Trieste, Italy"
+#     date: "Feb 2024"
+
+#   - title: "Invited Talk"
+#     event: "Mathematical Optimization for Machine Learning"
+#     location: "Zuse Institut, Berlin, Germany"
+#     date: "Sept 2023"
+
+#   - title: "Mini-symposium Organizer"
+#     event: "29th Biennial Numerical Analysis Conference"
+#     location: "Glasgow, UK"
+#     date: "July 2023"
+
+#   - title: "Poster Presentation"
+#     event: "Foundations of Computational Mathematics 2023"
+#     location: "Paris, France"
+#     date: "June 2023"
+
+# publications:
+#   - year: 2024
+#     authors: "Alix Leroy, Benedict Leimkuhler, Jonas Latz, Desmond J. Higham"
+#     title: "Adaptive stepsize algorithms for Langevin dynamics"
+#     journal: "SIAM Journal on Scientific Computing (SISC)"
+#     status: "In-press"
+#     link: "https://arxiv.org/abs/2403.11993"
+
+# awards_grants:
+#   - title: "MAC MIGS PhD Programme Grant"
+#     organization: "EPSRC"
+#     location: "Edinburgh, UK"
+#     date: "June 2022"
+#     details: "Funding for an intensive 4-year training and research programme."
+
+#   - title: "AFR PhD Grant"
+#     organization: "Luxembourg National Research Fund"
+#     location: "Luxembourg, Luxembourg"
+#     date: "May 2022"
+#     details: "PhD and travel funding for 4 years or until completion."
+
+# teaching:
+#   - title: "Tutor"
+#     organization: "University of Edinburgh"
+#     start_date: "Sept 2022"
+#     responsibilities:
+#       - "Courses tutored: Numerical Partial Differential Equations, Research Skills for Computational Mathematics, Introduction to Linear Algebra, Computer Lab for Optimization."
+#       - "Grading students' work and providing feedback."
+
+# leadership_volunteering:
+#   - role: "Member"
+#     organization: "Piscopia Initiative"
+#     location: "University of Edinburgh, UK"
+#     date: "2021-2024"
+#     details: "Encourage underrepresented genders to pursue PhDs in mathematics, organize network events, and support applicants."
+
+#   - role: "Elected Student Representative"
+#     organization: "MAC-MIGS Programme"
+#     location: "University of Edinburgh, UK"
+#     date: "2021-2023"
+#     details: "Coordinate student meetings and gather feedback for MAC-MIGS management."
+
+#   - role: "Co-Founder"
+#     organization: "Show Me How Feminist You Are (Balance ton Feminisme)"
+#     location: "Université Libre de Bruxelles, Belgium"
+#     date: "2017"
+#     details: "Promote awareness about gender issues on campus through events and exhibitions."
+
+# skills:
+#   computer: 
+#     - "Python"
+#     - "C++"
+#     - "Matlab"
+#     - "Stata"
+#     - "R"
+#   languages:
+#     - "French (Fluent)"
+#     - "English (Fluent)"
+#   sports:
+#     - "Rugby"
+#     - "Hiking"
+#     - "Surfing"
