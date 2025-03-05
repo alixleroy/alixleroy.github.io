@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visit Siemens Energy! 
-date: 2023-10-30 16:40:16
+date: 2024-10-30 16:40:16
 description: Visiting Siemens Energy in Berlin
 tags: news
 categories: visit-applied mathematics-industry 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Mathematics Showdown! 
-date: 2023-04-03 16:40:16
+date: 2024-04-03 16:40:16
 description: Science communication and trying to be funny along the way!
 tags: news
 categories: fun-show-science communication 
