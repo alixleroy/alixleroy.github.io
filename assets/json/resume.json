@@ -1,10 +1,12 @@
 {
-//   "personal_information": {
-//     "full_name": "Alix Leroy",
-//     "email": "a.leroy@sms.ed.ac.uk",
-//     "phone": "+44 7470 707295",
-//     "location": "Edinburgh, UK"
-//   }
+  "personal_information": {
+    "full_name": "Alix Leroy",
+    "email": "a.leroy@sms.ed.ac.uk",
+    "phone": "+44 7470 707295",
+    "location": "Edinburgh, UK"
+  }
+}
+
   // ,
   // "summary": "A passionate scientist and feminist, PhD student in applied mathematics with experience in sampling and numerical methods for Langevin dynamics.",
   // "education": [
