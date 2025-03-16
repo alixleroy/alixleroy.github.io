@@ -10,7 +10,7 @@ categories: visit-applied mathematics-industry
 Together with Dr. Jonas Latz, we visited Siemens Energy to learn about industrial applications. 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Alix_Jonas_Siemens.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Alix_Jonas_Siemens.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
