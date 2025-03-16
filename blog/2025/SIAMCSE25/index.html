@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html><body> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!--
+  See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+  https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+--&gt;
+
+  &lt;source
+    class="responsive-img-srcset"
+    srcset="/assets/img/AlixSIAMCSE2025-480.webp 480w,/assets/img/AlixSIAMCSE2025-800.webp 800w,/assets/img/AlixSIAMCSE2025-1400.webp 1400w,"
+    
+      sizes="95vw"
+    
+    type="image/webp"
+  &gt;
+
+&lt;img
+  src="/assets/img/AlixSIAMCSE2025.jpeg"
+  
+    class="img-fluid rounded z-depth-1"
+  
+  
+    width="100%"
+  
+  
+    height="auto"
+  
+  
+  
+  
+  
+  
+    loading="eager"
+  
+  onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+&gt;
+</code></pre></div></div> <p>&lt;/picture&gt;</p> <p>&lt;/figure&gt;</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/div&gt;
+</code></pre></div></div> <p>&lt;/div&gt;</p> <div class="caption"> My talk at SIAM CSE 2025 </div> <p>I had really interesting question from the audience! –&gt;</p> </body></html>
