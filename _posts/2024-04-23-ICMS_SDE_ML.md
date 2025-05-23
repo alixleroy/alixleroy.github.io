@@ -7,8 +7,7 @@ tags: news
 categories: poster-workshop 
 ---
 I presented my poster at the ICMS workshop on SDEs and machine learning in Edinburgh !
+<!-- 
+[Have a look at the poster!][posterAlix]
 
-Please find the poster attached. 
-
-
-[See the poster!](/assets/pdf/Poster_Alix.pdf)
+[posterAlix]: /assets/pdf/Poster_Alix.pdf -->
